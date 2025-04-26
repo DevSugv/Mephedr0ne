@@ -4,15 +4,15 @@ user inputs server ip or hostname, then chooses port (every common port is liste
 then user number of parrel tasks, and finally it starts attacking while showing status of the website every 5s
 
 Avaiable attack options:
-1 - SYN Flood
-2 - UDP Flood
-3 - ICMP Flood
-4 - HTTP Flood
-5 - Slowloris
-6 - WebSocket Flood
-7 - Slow POST
-8 - TCP Flood
-9 - Every attack at once
+SYN Flood,
+UDP Flood,
+ICMP Flood,
+HTTP Flood,
+Slowloris,
+WebSocket Flood,
+Slow POST,
+TCP Flood,
+Every attack at once.
 
 
 NOTE: This tool has been made only for ethical hacking with permission.
